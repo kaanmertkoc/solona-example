@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 
 
-declare_id!("7EdZPAMRSj6XQV2t8tm2KGBJoy9NZ9Twrky8L9KEqezG");
+declare_id!("9mAuZCKAbF3uLSbM15Fa7gy9xpYzyTpSQgssGVhNvAtG");
 
 #[program]
 pub mod solonaexample {
